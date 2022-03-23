@@ -6,7 +6,27 @@
     <description>Recent content in Data Science Portfolio on Jeff Sawalha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://jsawalha.github.io/jeff_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://jsawalha.github.io/jeff_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project # 5: Detecting sarcastic comments from Reddit</title>
+      <link>https://jsawalha.github.io/jeff_portfolio/post/project-5/</link>
+      <pubDate>Fri, 18 Mar 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://jsawalha.github.io/jeff_portfolio/post/project-5/</guid>
+      <description>I have built a web-based app that detects whether a comment is sarcastic or not. The Sarcasm detector uses over a million comments from Reddit, which was data scraped for this Kaggle dataset. This is an end-to-end ML project that uses Flask, HTML, and python.
+Here is a list of skills I deployed for this project:
+ Standardized and cleaned the Reddit dataset NLP data cleaning involved stemming and lemmatizing Trained and saved the machine learning model (75% accuracy) Web development done using Flask and HTML Deployed on Heroku  </description>
+    </item>
+    
+    <item>
+      <title>Project # 4: Detecting presence of PTSD using sentiment analysis from text data</title>
+      <link>https://jsawalha.github.io/jeff_portfolio/post/project-4/</link>
+      <pubDate>Sun, 26 Dec 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://jsawalha.github.io/jeff_portfolio/post/project-4/</guid>
+      <description>Sentiment analysis refers to the use of natural language processing to extract emotional content from text information. In our paper, we train a machine learning model on textual data, to identify individuals with PTSD using sentiment analysis from semi-structured interviews. Our sample size included 188 individuals without PTSD, and 87 with PTSD. The interview was conducted by an artificial character (Ellie) over a video-conference call. Our model was able to achieve a balanced accuracy of 80.</description>
+    </item>
+    
     <item>
       <title>Project # 2: Predicting pediatric anxiety from the temporal pole using neural responses to emotional faces</title>
       <link>https://jsawalha.github.io/jeff_portfolio/post/project-2/</link>
@@ -17,18 +37,9 @@
     </item>
     
     <item>
-      <title>Project # 1: Individualized identification of first-episode bipolar disorder using machine learning and cognitive tests</title>
-      <link>https://jsawalha.github.io/jeff_portfolio/post/project-1/</link>
-      <pubDate>Fri, 18 Dec 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://jsawalha.github.io/jeff_portfolio/post/project-1/</guid>
-      <description>This was a publication examining neurocognitive data in patients with bipolar I disorder (BD). We wanted to examine the correlation between certain neurocognitive deficits and the number of manic / psychotic episodes in first-episode and chronic-BD participants (FE-BD &amp;amp; CHR-BD). The overall objective of this study was to identify individuals who are in the beginning stages of bipolar disorder, by learning the more nuanced cognitive deficits that CHR-BD participant’s display in their neurocognitive tests.</description>
-    </item>
-    
-    <item>
       <title>Project # 3: X-ray classification of pneumonia</title>
       <link>https://jsawalha.github.io/jeff_portfolio/post/project-3/</link>
-      <pubDate>Tue, 05 Mar 2019 11:13:32 -0400</pubDate>
+      <pubDate>Fri, 05 Mar 2021 11:13:32 -0400</pubDate>
       
       <guid>https://jsawalha.github.io/jeff_portfolio/post/project-3/</guid>
       <description>Here, I obtained a dataset from a popular website called Kaggle. Here, there are over 5000 images of chest x-rays, and half are suffering from pneumonia. The performance task was simple: Train a classifier that can detect which x-rays represent pneumonia patients.
@@ -37,12 +48,12 @@ Here is a list of skills I deployed for this project:
     </item>
     
     <item>
-      <title>Project # 4: Detecting presence of PTSD using sentiment analysis from text data</title>
-      <link>https://jsawalha.github.io/jeff_portfolio/post/project-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Project # 1: Individualized identification of first-episode bipolar disorder using machine learning and cognitive tests</title>
+      <link>https://jsawalha.github.io/jeff_portfolio/post/project-1/</link>
+      <pubDate>Fri, 18 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://jsawalha.github.io/jeff_portfolio/post/project-4/</guid>
-      <description>Sentiment analysis refers to the use of natural language processing to extract emotional content from text information. In our paper, we train a machine learning model on textual data, to identify individuals with PTSD using sentiment analysis from semi-structured interviews. Our sample size included 188 individuals without PTSD, and 87 with PTSD. The interview was conducted by an artificial character (Ellie) over a video-conference call. Our model was able to achieve a balanced accuracy of 80.</description>
+      <guid>https://jsawalha.github.io/jeff_portfolio/post/project-1/</guid>
+      <description>This was a publication examining neurocognitive data in patients with bipolar I disorder (BD). We wanted to examine the correlation between certain neurocognitive deficits and the number of manic / psychotic episodes in first-episode and chronic-BD participants (FE-BD &amp;amp; CHR-BD). The overall objective of this study was to identify individuals who are in the beginning stages of bipolar disorder, by learning the more nuanced cognitive deficits that CHR-BD participant’s display in their neurocognitive tests.</description>
     </item>
     
     <item>
